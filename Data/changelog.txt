@@ -7,5 +7,5 @@
   - Dodano Informacje o Statusie Serwera [Offline/Online]
   - Dodano Informacje o Wersji Launchera
 
-~ v1.0
+~ v1.044544
   - Dodano Launcher
