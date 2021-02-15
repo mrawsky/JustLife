@@ -2,6 +2,9 @@
 ######################### JustLife ChangeLog ##########################
 ####################################################################
 
+~ v1.2
+  - Poprawiono Informacje o Statusie Serwera
+
 ~ v1.1
   - Poprawiono Auto-Aktualizacje
   - Dodano Informacje o Statusie Serwera [Offline/Online]
