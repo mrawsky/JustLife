@@ -6,7 +6,7 @@
   - Dodano Animacje Ladowania Launchera
   - Poprawiono Migajace Okna Podczas Ladowania Launchera
   - Poprawiono Dzialanie Statusu Serwera
-  - Dodano Informacje o Ilosci Graczy Na Serwerze (Funkcja Dostępna Od Wersji v1.3)
+  - Dodano Informacje o Ilosci Graczy Na Serwerze (Funkcja Dostepna Od Wersji v1.3)
 
 ~ v1.2
   - Poprawiono Informacje o Statusie Serwera
